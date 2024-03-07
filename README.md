@@ -1,14 +1,15 @@
-Fala galera! 👋
+Hello everyone! 👋
 
-Me chamo Yuji, desenvolvedor com 4 anos de experiência na área de produtos (atuando como PO e PM) em empresas como Contabilizei, Delivery Center e iFood.
+I'm Yuji, a developer with 4 years of experience in the product field (working as a PO and PM) at companies such as Contabilizei, Delivery Center, and iFood.
 
-No último ano, realizei minha transição de carreira para desenvolvimento. Procuro uma oportunidade para me destacar a crescer como desenvolvedor, trazendo meus conhecimentos negociais e estratégicos para a empresa!
+In the past year, I successfully transitioned my career to development. I am seeking an opportunity to stand out and grow as a developer, bringing my business and strategic knowledge to the company!
 
-Tecnologias:
-* Java
-* Python
-* JavaScript
-* SQL
+Technologies:
 
-Vamos nos conectar? (:
-https://www.linkedin.com/in/yujiasofu/
+Java
+Python
+JavaScript
+SQL
+Let's connect? (: 
+
+[LinkedIn Profile](https://www.linkedin.com/in/yujiasofu/)
