@@ -7,6 +7,8 @@ In the past year, I successfully transitioned my career to development. I am see
 Technologies:
 * JavaScript
 * Python
+  * NumPy
+  * Matplotlib 
 * SQL
 
 Let's connect? (: 
