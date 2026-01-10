@@ -8,7 +8,9 @@ Technologies:
 * JavaScript
 * Python
   * NumPy
-  * Matplotlib 
+  * Matplotlib
+  * Pandas
+  * SciKitLearn (WIP)
 * SQL
 
 Let's connect? (: 
