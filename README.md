@@ -100,4 +100,4 @@ Construir soluções escaláveis que conectem:
 
 # 📫 Contato
 
-* LinkedIn: [https://www.linkedin.com/in/yujiasofu/]
+* [LinkedIn](https://www.linkedin.com/in/yujiasofu/).
