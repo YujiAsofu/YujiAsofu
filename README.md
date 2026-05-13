@@ -93,8 +93,7 @@ Hoje uno conhecimento técnico, visão operacional e pensamento analítico para 
 # 🎯 Objetivo
 
 Construir soluções escaláveis que conectem:
-
-> dados + experiência do usuário + impacto no negócio
+dados + experiência do usuário + impacto no negócio
 
 ---
 
