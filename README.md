@@ -5,7 +5,7 @@
 
 ---
 
-# 🧠 Sobre mim
+# 🧠 Sobre
 
 Minha trajetória começou diretamente em operações e produto, o que me trouxe uma visão muito forte de negócio antes mesmo da parte técnica.
 
@@ -100,4 +100,4 @@ Construir soluções escaláveis que conectem:
 
 # 📫 Contato
 
-* [LinkedIn](https://www.linkedin.com/in/yujiasofu/).
+* [LinkedIn](https://www.linkedin.com/in/yujiasofu/)
