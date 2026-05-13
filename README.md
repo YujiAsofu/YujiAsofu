@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Yuji
 
-💻 Profissional de Dados com experiência multidisciplinar em Produto e Desenvolvimento.
+💻 Profissional de Dados com experiência multidisciplinar em Produto e Desenvolvimento.<br>
 📊 Focado em Analytics, Business Intelligence e métricas de Customer Experience.
 
 ---
